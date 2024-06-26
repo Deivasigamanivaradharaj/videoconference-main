@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "SignallingServer",
+            "script": "/home/node-service/app.js"
+        },
+       
+    ]
+}
